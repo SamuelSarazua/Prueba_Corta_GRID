@@ -1,0 +1,68 @@
+.section {
+    height: 1100px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
+}
+
+.d1 {
+    width: 600px;
+    height: 530px;
+    background-color: orange;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.d2 {
+    width: 600px;
+    height: 530px;
+    background-color: orange;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.d3 {
+    width: 600px;
+    height: 530px;
+    background-color: orange;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.d4 {
+    width: 600px;
+    height: 530px;
+    background-color: orange;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.d5 {
+    width: 600px;
+    height: 530px;
+    background-color: orange;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
